@@ -1,0 +1,23 @@
+{
+    "graph":{
+        "energy": 12027.48,
+        "execution_time": 148.8
+    },
+    "memory":{
+        "energy": 33874.88,
+        "execution_time": 228.489
+    },
+    "cache":{
+        "energy": 8103.71,
+        "execution_time": 70.1162
+    },
+    "serving":{
+        "energy": 9607.201,
+        "execution_time": 120.682
+    },
+    "media":{
+        "energy": 13442.4,
+        "execution_time": 190.378
+    }
+
+}

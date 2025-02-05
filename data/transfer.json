@@ -1,0 +1,81 @@
+{
+    "graph":
+    {
+        "zurich":{"zurich":0,"madrid":10,"oregon":50,"milan": 3,"mumbai":52},
+        "madrid":{"zurich":10,"madrid":0,"oregon":54,"milan":7,"mumbai":40},
+        "oregon":{"zurich":50,"madrid":54,"oregon":0,"milan": 52,"mumbai":68},
+        "milan":{"zurich":3,"madrid":7,"oregon":52,"milan":0,"mumbai": 50},
+        "mumbai":{"zurich":52,"madrid":40,"oregon":68,"milan":50,"mumbai":0}
+    },
+    "cache":
+    {
+        "zurich":{"zurich":0,"madrid":2,"oregon":11,"milan":1,"mumbai":8},
+        "madrid":{"zurich":2,"madrid":0,"oregon":9,"milan":1,"mumbai":7},
+        "oregon":{"zurich":11,"madrid":9,"oregon":0,"milan":7,"mumbai":17},
+        "milan":{"zurich":1,"madrid":1,"oregon":7,"milan":0,"mumbai":8},
+        "mumbai":{"zurich":8,"madrid":7,"oregon":17,"milan":8,"mumbai":0}
+    },
+    "serving":
+    {
+        "zurich":{"zurich":0,"madrid":7,"oregon":32,"milan":6,"mumbai":43},
+        "madrid":{"zurich":7,"madrid":0,"oregon":35,"milan":8,"mumbai":37},
+        "oregon":{"zurich":32,"madrid":35,"oregon":0,"milan":30,"mumbai":40},
+        "milan":{"zurich":6,"madrid":8,"oregon":30,"milan":0,"mumbai":30},
+        "mumbai":{"zurich":43,"madrid":37,"oregon":40,"milan":30,"mumbai":0}
+    },
+    "media":
+    {
+        "zurich":{"zurich":0,"madrid":2,"oregon":10,"milan":2,"mumbai":13},
+        "madrid":{"zurich":2,"madrid":0,"oregon":9,"milan":3,"mumbai":12},
+        "oregon":{"zurich":10,"madrid":9,"oregon":0,"milan":8,"mumbai":14},
+        "milan":{"zurich":2,"madrid":3,"oregon":8,"milan":0,"mumbai":9},
+        "mumbai":{"zurich":13,"madrid":12,"oregon":14,"milan":9,"mumbai":0}
+    },
+    "memory":
+    {
+        "zurich":{"zurich":0,"madrid":9,"oregon":43,"milan": 4,"mumbai":37},
+        "madrid":{"zurich":9,"madrid":0,"oregon":40,"milan":7,"mumbai":40},
+        "oregon":{"zurich":37,"madrid":40,"oregon":0,"milan": 52,"mumbai":53},
+        "milan":{"zurich":3,"madrid":7,"oregon":52,"milan":0,"mumbai": 40},
+        "mumbai":{"zurich":37,"madrid":39,"oregon":53,"milan":40,"mumbai":0}
+    },
+    "black":{
+        "zurich":{"zurich":0,"madrid":9,"oregon":32,"milan": 13,"mumbai":42},
+        "madrid":{"zurich":10,"madrid":0,"oregon":34,"milan":12,"mumbai":44},
+        "oregon":{"zurich":32,"madrid":34,"oregon":0,"milan": 35,"mumbai":62},
+        "milan":{"zurich":13,"madrid":12,"oregon":35,"milan":0,"mumbai": 40},
+        "mumbai":{"zurich":42,"madrid":40,"oregon":62,"milan":40,"mumbai":0}
+    },
+    "canneal":
+    {
+        "zurich":{"zurich":0,"madrid":2,"oregon":5,"milan": 3,"mumbai":10},
+        "madrid":{"zurich":2,"madrid":0,"oregon":6,"milan":3,"mumbai":10},
+        "oregon":{"zurich":5,"madrid":6,"oregon":0,"milan": 5,"mumbai":11},
+        "milan":{"zurich":3,"madrid":3,"oregon":5,"milan":0,"mumbai": 10},
+        "mumbai":{"zurich":10,"madrid":10,"oregon":11,"milan":10,"mumbai":0}
+    },
+    "dedup":
+    {
+        "zurich":{"zurich":0,"madrid":13,"oregon":36,"milan": 10,"mumbai":49},
+        "madrid":{"zurich":13,"madrid":0,"oregon":39,"milan":12,"mumbai":44},
+        "oregon":{"zurich":36,"madrid":39,"oregon":0,"milan": 38,"mumbai":69},
+        "milan":{"zurich":10,"madrid":12,"oregon":38,"milan":0,"mumbai": 44},
+        "mumbai":{"zurich":49,"madrid":44,"oregon":69,"milan":44,"mumbai":0}
+    },
+    "netdedup":
+    {
+        "zurich":{"zurich":0,"madrid":13,"oregon":36,"milan": 10,"mumbai":49},
+        "madrid":{"zurich":13,"madrid":0,"oregon":39,"milan":12,"mumbai":44},
+        "oregon":{"zurich":36,"madrid":39,"oregon":0,"milan": 38,"mumbai":69},
+        "milan":{"zurich":10,"madrid":12,"oregon":38,"milan":0,"mumbai": 44},
+        "mumbai":{"zurich":49,"madrid":44,"oregon":69,"milan":44,"mumbai":0}
+    },
+    "swaptions":
+    {
+        "zurich":{"zurich":0,"madrid":0,"oregon":0,"milan": 0,"mumbai":0},
+        "madrid":{"zurich":0,"madrid":0,"oregon":0,"milan":0,"mumbai":0},
+        "oregon":{"zurich":0,"madrid":0,"oregon":0,"milan":0,"mumbai":0},
+        "milan":{"zurich":0,"madrid":0,"oregon":0,"milan":0,"mumbai":0},
+        "mumbai":{"zurich":0,"madrid":0,"oregon":0,"milan":0,"mumbai":0}
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "nuclear": {
+        "CI": 5,
+        "EWIF": 2.6
+    },   
+    "wind": {
+            "CI": 12,
+            "EWIF": 0
+        },
+         "hydro": {
+            "CI": 17,
+            "EWIF": 17
+        },
+        "geothermal": {
+            "CI": 38,
+            "EWIF": 5.8
+        },
+         "solar": {
+            "CI": 45,
+            "EWIF": 0.06
+        },
+         "biomass": {
+            "CI": 230,
+            "EWIF": 1.14
+        },        
+         "gas": {
+            "CI": 490,
+            "EWIF": 1.02
+        },
+         "oil": {
+            "CI": 650,
+            "EWIF": 1.79
+        },
+        "coal": {
+            "CI": 1050,
+            "EWIF": 1.51
+        }
+}
